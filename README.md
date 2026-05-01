@@ -9,6 +9,12 @@ The EPCI_Megaclade_Counts file lists the overall counts for each Megaclade among
 The Megaclades are, broadly: pre-VOC, Alpha, Beta, Gamma, Delta, BA.1, BA.2, BA.4/5, XBB, and BA.2.86.
 Details for the precise clades included in each Megaclade are listed in a table included in each spreadsheet.
 
+The Clades files list the overall counts for each Nextstrain Clade.
+
+The Pango files list the overall counts for each Pango lineage.
+
 The names and mutations of each MP are described in the paper. Two abbreviations used here are:
 CWW = Cryptic Wastewater MP
 BAL = Bronchoalveolar Lavage-associated MP
+
+
